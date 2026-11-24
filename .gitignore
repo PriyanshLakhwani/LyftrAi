@@ -1,0 +1,18 @@
+# .gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+# virtual env
+venv/
+# SQLite DB
+*.db
+/data/
+# Node
+node_modules/
+# Vite build output
+frontend/dist/
+# Logs
+*.log
